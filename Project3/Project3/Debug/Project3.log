@@ -1,0 +1,5 @@
+﻿  circle.cpp
+D:\学习资料\编程\Visual studio 2019\VS2019IDE\Project3\circle.cpp(9,2): error C2065: “m_R”: 未声明的标识符
+D:\学习资料\编程\Visual studio 2019\VS2019IDE\Project3\circle.cpp(19,9): error C2065: “m_R”: 未声明的标识符
+D:\学习资料\编程\Visual studio 2019\VS2019IDE\Project3\circle.cpp(27,2): error C2065: “m_Center”: 未声明的标识符
+D:\学习资料\编程\Visual studio 2019\VS2019IDE\Project3\circle.cpp(37,9): error C2065: “m_Center”: 未声明的标识符
