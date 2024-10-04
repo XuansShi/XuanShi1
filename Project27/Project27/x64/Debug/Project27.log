@@ -1,0 +1,4 @@
+﻿  类和对象-友元-成员函数做友元.cpp
+C:\Users\Mo jinye\source\repos\Project27\类和对象-友元-成员函数做友元.cpp(8,14): error C2653: “GoodGay”: 不是类或命名空间名称
+C:\Users\Mo jinye\source\repos\Project27\类和对象-友元-成员函数做友元.cpp(61,51): error C2248: “Building::m_BedRoom”: 无法访问 private 成员(在“Building”类中声明)
+C:\Users\Mo jinye\source\repos\Project27\类和对象-友元-成员函数做友元.cpp(83,17): error C2084: 函数“void GoodGay::visit2(void)”已有主体
