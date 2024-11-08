@@ -1,0 +1,13 @@
+﻿  employee.cpp
+  workerManager.cpp
+C:\Users\Mo jinye\source\repos\Project50_2\employee.h(10,23): error C2504: “Worker”: 未定义基类
+C:\Users\Mo jinye\source\repos\Project50_2\employee.cpp(12,8): error C2039: "m_Id": 不是 "Employee" 的成员
+C:\Users\Mo jinye\source\repos\Project50_2\employee.cpp(13,8): error C2039: "m_DeptId": 不是 "Employee" 的成员
+C:\Users\Mo jinye\source\repos\Project50_2\employee.cpp(14,8): error C2039: "m_Name": 不是 "Employee" 的成员
+C:\Users\Mo jinye\source\repos\Project50_2\employee.cpp(20,37): error C2039: "m_Id": 不是 "Employee" 的成员
+C:\Users\Mo jinye\source\repos\Project50_2\employee.cpp(21,35): error C2039: "m_Name": 不是 "Employee" 的成员
+C:\Users\Mo jinye\source\repos\Project50_2\employee.h(10,23): error C2504: “Worker”: 未定义基类
+  基于多态的职工管理系统.cpp
+C:\Users\Mo jinye\source\repos\Project50_2\employee.h(10,23): error C2504: “Worker”: 未定义基类
+C:\Users\Mo jinye\source\repos\Project50_2\基于多态的职工管理系统.cpp(13,24): error C2440: “=”: 无法从“Employee *”转换为“Worker *”
+  正在生成代码...
