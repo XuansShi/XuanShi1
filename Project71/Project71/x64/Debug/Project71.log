@@ -1,0 +1,5 @@
+﻿  string容器-字符串查找和替换.cpp
+C:\Users\Mo jinye\source\repos\Project71\string容器-字符串查找和替换.cpp(39,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Mo jinye\source\repos\Project71\string容器-字符串查找和替换.cpp(42,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Mo jinye\source\repos\Project71\string容器-字符串查找和替换.cpp(60,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Project71.vcxproj -> C:\Users\Mo jinye\source\repos\Project71\x64\Debug\Project71.exe
