@@ -1,0 +1,8 @@
+﻿  set容器-查找和统计.cpp
+C:\Users\Mo jinye\source\repos\Project102\set容器-查找和统计.cpp(59,16): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  3 of 128 functions ( 2.3%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Project102.vcxproj -> C:\Users\Mo jinye\source\repos\Project102\x64\Release\Project102.exe
