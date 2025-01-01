@@ -1,0 +1,5 @@
+﻿  STL案例2-员工分组.cpp
+C:\Users\Mo jinye\source\repos\Project112\STL案例2-员工分组.cpp(89,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Mo jinye\source\repos\Project112\STL案例2-员工分组.cpp(100,17): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Mo jinye\source\repos\Project112\STL案例2-员工分组.cpp(111,17): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  Project112.vcxproj -> C:\Users\Mo jinye\source\repos\Project112\x64\Debug\Project112.exe
