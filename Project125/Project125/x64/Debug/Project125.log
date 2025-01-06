@@ -1,0 +1,4 @@
+﻿  常用查找算法-count.cpp
+C:\Users\Mo jinye\source\repos\Project125\常用查找算法-count.cpp(34,13): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Mo jinye\source\repos\Project125\常用查找算法-count.cpp(93,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  Project125.vcxproj -> C:\Users\Mo jinye\source\repos\Project125\x64\Debug\Project125.exe
