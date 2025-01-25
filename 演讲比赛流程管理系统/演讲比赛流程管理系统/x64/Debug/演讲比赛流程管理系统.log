@@ -1,0 +1,10 @@
+﻿  speechManager.cpp
+C:\Users\Mo jinye\source\repos\演讲比赛流程管理系统\speechManager.cpp(364,19): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.40.33807\include\numeric(37,26): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.40.33807\include\numeric(37,26): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.40.33807\include\numeric(37,26): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.40.33807\include\numeric(37,26): warning C4244:             _Ty=float
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.40.33807\include\numeric(37,26): warning C4244:         ]
+  演讲比赛管理系统.cpp
+  正在生成代码...
+  演讲比赛流程管理系统.vcxproj -> C:\Users\Mo jinye\source\repos\演讲比赛流程管理系统\x64\Debug\演讲比赛流程管理系统.exe
